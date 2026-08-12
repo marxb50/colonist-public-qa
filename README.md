@@ -1,6 +1,10 @@
 # Colonist public QA — Playwright
 
+[![Playwright smoke tests](https://github.com/marxb50/colonist-public-qa/actions/workflows/playwright.yml/badge.svg)](https://github.com/marxb50/colonist-public-qa/actions/workflows/playwright.yml)
+
 A compact Playwright portfolio project that checks high-value public journeys on [Colonist](https://colonist.io/): the main play actions, rules navigation, essential rulebook content, extended-player documentation, and the company's published values.
+
+This is an independent QA portfolio project and is not affiliated with Colonist. It exercises public, read-only pages only.
 
 ## Run locally
 
