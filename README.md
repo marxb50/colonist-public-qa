@@ -1,3 +1,5 @@
+![colonist-public-qa Preview](docs/preview.png)
+
 # Colonist public QA — Playwright
 
 [![Playwright smoke tests](https://github.com/marxb50/colonist-public-qa/actions/workflows/playwright.yml/badge.svg)](https://github.com/marxb50/colonist-public-qa/actions/workflows/playwright.yml)
